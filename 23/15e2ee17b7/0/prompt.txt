@@ -1,0 +1,9 @@
+@srs/main.rs
+
+---
+
+add a class that would implement string utils
+
+---
+
+run it
